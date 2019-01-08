@@ -1,4 +1,16 @@
-# multiminer
+# multiminer by bogdanadnan!
+
+Over the last couple of days it was alleged the Argon2d 250 could be mined with a GPU.
+
+During the initial concept and design of Zumy, the algorithm at that point that had been most successful to meet the objectives was the Argon 2d.  Argon works as a password hashing algorithm using the memory access to allow CPU's to thrive in comparison to GPU's. As technology and crypto currency develops it was always a possibility that work arounds and modifications to Mining software would inevitably happen. Our stance from day one on Zumy's GPU ability was positive. If one was to be developed we'd 100% release it and it's binaries to allow people to use GPU and make a fair choice between which they feel is the most effective.
+
+As it stands it would appear we have a GPU miner created by a developer for our specific Algo Argon2d250. The zumy team didn't create this miner.  Due to the miner being released - our first point of call is to test it :smile: The development team tonight are running GPUs and collating results.
+
+Regardless of the results we promised that we'd release the miners for both. As if a developer can make a GPU miner - anyone can and all people of Zumy as part of our decentralised network need to be able to access all opportunities available for them to mine with - if we don't do this then many members of our community would never now leading to centralised mining.
+
+We're extremely glad this came to light within the early days of Zumy preventing people if the GPU miners are proven tonight to be effective, that the community and the project isn't affected at all.
+
+Zumy is flexible and dynamic to cope with economic and technological changes.
 
 Dev Fee
 -------
